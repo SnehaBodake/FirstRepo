@@ -1,0 +1,2 @@
+print("Hello World!")
+above line will print Hello World! on screen.
